@@ -3,8 +3,7 @@
 
 **Save Small. Grow Big.**
 
-Website Prototype -[ https://v0-sparevestmain.vercel.app/](https://v0-sparevestmain.vercel.app/
-)
+Website Prototype -[([https://v0-sparevestmain.vercel.app/)](https://v0-spare-vestdevmain.vercel.app/)
 )
 
 SpareVest is a smart web app that empowers users to automatically invest their spare change or small amounts into crypto-backed funds using USDT (Tether). Inspired by the Jar app’s gold model, SpareVest brings the same simplicity and automation to the world of stablecoin investing.
@@ -122,10 +121,7 @@ Check `CONTRIBUTING.md` for guidelines.
 - **Dewansh Shekhar Singh**  
   [GitHub: dewanshshekhar](https://github.com/dewanshshekhar)
 
-## 🚀 Deployment
 
-- **Live App:** [[https://spare-vest.vercel.app/](https://spare-vest.vercel.app/)](https://v0-sparevestmain.vercel.app/
-)
 
 ## 📄 License
 
