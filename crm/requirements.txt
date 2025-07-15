@@ -1,0 +1,9 @@
+# To run the CRM dashboard:
+# Navigate to the 'crm' directory:
+# cd crm
+# Then run the script:
+# python showCRM.py
+
+pandas
+dash
+plotly
